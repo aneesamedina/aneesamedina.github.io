@@ -1,42 +1,57 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aneesa Medina - Portfolio</title>
-    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Your Name - Portfolio</title>
+    <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <header>
-      <h1>Aneesa Medina</h1>
-      <p>Software Developer | Web Developer | Enthusiast</p>
+      <nav>
+        <div class="logo">
+          <h1>Your Name</h1>
+        </div>
+        <ul class="nav-links">
+          <li><a href="#about">About</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
     </header>
 
-    <section id="about">
-      <h2>About Me</h2>
-      <p>This is a short introduction about who you are and what you're passionate about in tech.</p>
+    <section id="about" class="section">
+      <div class="container">
+        <h2>About Me</h2>
+        <p>
+          Hello! I'm Your Name, a passionate software developer with a love for building web applications.
+          I specialize in frontend development and enjoy learning new technologies.
+        </p>
+      </div>
     </section>
 
-    <section id="projects">
-      <h2>My Projects</h2>
-      <ul>
-        <li>
+    <section id="projects" class="section">
+      <div class="container">
+        <h2>My Projects</h2>
+        <div class="project-card">
           <h3>Project 1</h3>
-          <p>Description of your project, what tools you used, and the outcome.</p>
-          <a href="https://github.com/username/project-1">View Project</a>
-        </li>
-        <li>
+          <p>A brief description of your first project. What technologies did you use? What did you accomplish?</p>
+          <a href="#">View Project</a>
+        </div>
+        <div class="project-card">
           <h3>Project 2</h3>
-          <p>Description of your second project, what it does, and how it showcases your skills.</p>
-          <a href="https://github.com/username/project-2">View Project</a>
-        </li>
-      </ul>
+          <p>A brief description of your second project. Explain how it showcases your skills.</p>
+          <a href="#">View Project</a>
+        </div>
+      </div>
     </section>
 
-    <section id="contact">
-      <h2>Contact Me</h2>
-      <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
-      <p>LinkedIn: <a href="https://www.linkedin.com/in/yourname">linkedin.com/in/yourname</a></p>
+    <section id="contact" class="section">
+      <div class="container">
+        <h2>Contact Me</h2>
+        <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/yourname" target="_blank">linkedin.com/in/yourname</a></p>
+      </div>
     </section>
 
     <footer>
