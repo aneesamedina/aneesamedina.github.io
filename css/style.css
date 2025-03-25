@@ -6,7 +6,7 @@ body {
   color: #333;
 }
 header {
-  background-color: #23395d;
+  background-color: #607596;
   color: white;
   padding: 10px;
   text-align: center;
@@ -24,7 +24,7 @@ ul li {
   margin: 10px 0;
 }
 a {
-  color: #3498db;  /* Set the color of links (normal state) */
+  color: white;  /* Set the color of links (normal state) */
   text-decoration: none; /* Remove underline from the links */
 }
 a:hover {
