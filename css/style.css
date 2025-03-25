@@ -23,26 +23,13 @@ ul {
 ul li {
   margin: 10px 0;
 }
-.nav-links {
-  list-style-type: none; /* Removes default list styling */
-  padding: 0;            /* Removes default padding */
-  margin: 0;             /* Removes default margin */
-}
-
-.nav-links li {
-  display: inline;       /* Makes list items appear inline */
-  margin-right: 20px;     /* Adds space between the list items */
-}
-
 .nav-links a {
   text-decoration: none; /* Removes the underline */
   color: white;        /* Change the link color */
 }
-
 .nav-links a:hover {
   color: #ff6600;        /* Change the color on hover */
 }
-
 footer {
   text-align: center;
   padding: 10px;
