@@ -23,6 +23,14 @@ ul {
 ul li {
   margin: 10px 0;
 }
+a {
+  color: #3498db;  /* Set the color of links (normal state) */
+  text-decoration: none; /* Remove underline from the links */
+}
+a:hover {
+  color: #ff6600;  /* Change the color when hovered */
+  text-decoration: underline; /* Optionally, underline the link on hover */
+}
 footer {
   text-align: center;
   padding: 10px;
