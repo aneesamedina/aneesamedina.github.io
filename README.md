@@ -11,6 +11,18 @@ In this portfolio, you'll find a collection of my projects and personal work.
 - [Contact](#contact)
 
 ## Excel Portfolio
+This repository contains Excel projects demonstrating skills in:
+
+- Financial reporting
+- Budget analysis
+- Dashboard creation
+- Pivot Tables
+- XLOOKUP
+- SUMIFS
+- Conditional Formatting
+- Data visualization
+
+Current Projects
 
 ### [Project 1: Portfolio Website](https://aneesamedina.github.io)
 - A personal website to showcase my work and projects.
