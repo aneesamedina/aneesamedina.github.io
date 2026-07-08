@@ -6,11 +6,11 @@ Hi! I'm Aneesa, a software developer with a passion for problem-solving and buil
 In this portfolio, you'll find a collection of my projects and personal work.
 
 ## Table of Contents
-- [Projects](#projects)
+- [Excel Portfolio](#excelportfolio)
 - [Skills](#skills)
 - [Contact](#contact)
 
-## Projects
+## Excel Portfolio
 
 ### [Project 1: Portfolio Website](https://aneesamedina.github.io)
 - A personal website to showcase my work and projects.
